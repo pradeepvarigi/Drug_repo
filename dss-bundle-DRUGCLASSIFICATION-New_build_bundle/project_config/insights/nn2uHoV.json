@@ -1,0 +1,31 @@
+{
+  "type": "metrics",
+  "params": {
+    "objectSmartId": "drug200_prepared_scored",
+    "objectType": "DATASET",
+    "metricId": "reporting:METRICS_COMPUTATION_DURATION"
+  },
+  "owner": "manjunath",
+  "listed": false,
+  "name": "Metrics computation duration on drug200_prepared_scored",
+  "dashboardCreationId": "JpRIHa4",
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "manjunath"
+    },
+    "lastModifiedOn": 1666248431900
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "manjunath"
+    },
+    "lastModifiedOn": 1666248431900
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "gitReferences": {
+    "test/dss-bundle-DRUGCLASSIFICATION-Drug_Classfication_V1.zip": {
+      "remote": "git@github.com:aniketcha98/bundles_test.git",
+      "checkout": "",
+      "remotePath": "bundles_test",
+      "isDirty": false
+    }
+  },
+  "pythonPath": [
+    "python",
+    "test/dss-bundle-DRUGCLASSIFICATION-Drug_Classfication_V1.zip"
+  ],
+  "rsrcPath": [
+    "R"
+  ],
+  "importLibrariesFromProjects": []
+}

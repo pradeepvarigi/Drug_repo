@@ -1,0 +1,29 @@
+{
+  "type": "scenario_last_runs",
+  "params": {
+    "scenarioSmartId": "FIRST"
+  },
+  "owner": "manjunath",
+  "listed": false,
+  "name": "Timeline view of scenario First",
+  "dashboardCreationId": "JpRIHa4",
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "manjunath"
+    },
+    "lastModifiedOn": 1666248500907
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "manjunath"
+    },
+    "lastModifiedOn": 1666248500907
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}

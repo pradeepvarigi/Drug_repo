@@ -1,0 +1,29 @@
+{
+  "type": "saved-model_report",
+  "params": {
+    "savedModelSmartId": "ZSZYiZKR"
+  },
+  "owner": "manjunath",
+  "listed": false,
+  "name": "Predict Drug_type (multiclass) table",
+  "dashboardCreationId": "JpRIHa4",
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "manjunath"
+    },
+    "lastModifiedOn": 1666248464078
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "manjunath"
+    },
+    "lastModifiedOn": 1666248464078
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "exportUserInfo": {
+    "exportedOn": "2022-10-20T02:53:58.768-0400",
+    "exportedBy": "manjunath"
+  },
+  "exportedWithOptions": {
+    "exportUploads": false,
+    "exportManagedFS": false,
+    "exportAnalysisModels": false,
+    "exportSavedModels": false,
+    "exportManagedFolders": false,
+    "exportModelEvaluationStores": false,
+    "exportProjectResources": true,
+    "exportLabelingTasks": false,
+    "exportAllInputDatasets": false,
+    "exportAllDatasets": false,
+    "exportAllInputManagedFolders": false,
+    "exportGitRepository": false,
+    "exportInsightsData": false,
+    "useManualPluginsInfo": false,
+    "includedDatasetsData": [],
+    "includedSavedModels": [],
+    "includedModelEvaluationStores": [],
+    "includedManagedFolders": [],
+    "includedCodeStudios": [],
+    "includedLabelingTasks": [],
+    "shareAllInputDatasets": false,
+    "exportForeignObjectsReferences": true
+  },
+  "actualContent": {
+    "configContent": {
+      "datasets": 10,
+      "recipes": 9,
+      "savedModels": 1,
+      "modelEvaluationStores": 2,
+      "managedFolders": 0,
+      "scenarios": 0,
+      "analysis": 4,
+      "jupyterNotebooks": 2,
+      "sqlNotebooks": 0,
+      "insights": 10,
+      "dashboards": 1,
+      "labelingTasks": 0
+    },
+    "includedDatasets": [],
+    "includedSavedModels": [],
+    "includedManagedFolders": [],
+    "includedModelEvaluationStores": [],
+    "includedCodeStudios": [],
+    "includedLabelingTasks": [],
+    "allAnalysisData": false,
+    "insightsData": false
+  },
+  "bundleId": "New_build_bundle",
+  "originalProjectKey": "DRUGCLASSIFICATION",
+  "manifestVersion": 3,
+  "generatedWithDSSVersion": "11.0.0",
+  "generatedWithDSSConfVersion": "11000",
+  "foreignObjects": [],
+  "exportedWithPlugins": [
+    {
+      "pluginId": "geoadmin",
+      "version": "2.3.0"
+    },
+    {
+      "pluginId": "deeplearning-image",
+      "version": "2.0.2"
+    },
+    {
+      "pluginId": "local-r-dev-setup",
+      "version": "1.0.0"
+    },
+    {
+      "pluginId": "builtin-macros",
+      "version": "1.0.0"
+    },
+    {
+      "pluginId": "code-studio-blocks",
+      "version": "1.0.0"
+    },
+    {
+      "pluginId": "k8s-metrics-utils",
+      "version": "1.0.0"
+    },
+    {
+      "pluginId": "model-drift",
+      "version": "2.0.2"
+    },
+    {
+      "pluginId": "plugin-model-metadata",
+      "version": "0.0.1"
+    },
+    {
+      "pluginId": "sentiment-analysis",
+      "version": "1.5.0"
+    },
+    {
+      "pluginId": "ml-assisted-labeling",
+      "version": "4.0.1"
+    },
+    {
+      "pluginId": "calc-dist",
+      "version": "0.0.1"
+    },
+    {
+      "pluginId": "colorbrewer-palettes",
+      "version": "0.0.1"
+    }
+  ],
+  "exportedWithCodeStudioTemplates": [
+    {
+      "templateId": "test",
+      "templateLabel": "test"
+    }
+  ],
+  "requiredCodeStudioTemplates": [],
+  "requiredConnections": {
+    "filesystem_managed": {
+      "name": "filesystem_managed",
+      "type": "Filesystem"
+    }
+  },
+  "allowedMissingConnections": [],
+  "usedCodeEnvRefs": [],
+  "allowedMissingCodeEnvs": [],
+  "hasPartitionedDataset": false
+}

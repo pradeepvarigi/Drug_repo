@@ -1,0 +1,137 @@
+{
+  "pages": [
+    {
+      "id": "gOk7WXO",
+      "grid": {
+        "tiles": [
+          {
+            "tileType": "INSIGHT",
+            "box": {
+              "top": 0,
+              "left": 0,
+              "width": 8,
+              "height": 4
+            },
+            "clickAction": "DO_NOTHING",
+            "tileParams": {
+              "displayMode": "summary",
+              "advancedOptions": {
+                "interactiveScoring": {
+                  "featuresOrder": [
+                    "Sodium and potassium Level",
+                    "Age",
+                    "BP_HIGH",
+                    "BP_LOW",
+                    "BP_NORMAL",
+                    "Cholesterol",
+                    "Gender"
+                  ]
+                }
+              }
+            },
+            "autoLoad": true,
+            "showTitle": "YES",
+            "insightId": "UWdoc8x",
+            "insightType": "saved-model_report",
+            "displayMode": "INSIGHT",
+            "resizeImageMode": "FIT_SIZE"
+          },
+          {
+            "tileType": "INSIGHT",
+            "box": {
+              "top": 0,
+              "left": 8,
+              "width": 4,
+              "height": 4
+            },
+            "clickAction": "OPEN_INSIGHT",
+            "tileParams": {
+              "showXAxis": true,
+              "showYAxis": true,
+              "showLegend": false,
+              "showTooltips": true,
+              "autoPlayAnimation": true
+            },
+            "autoLoad": true,
+            "showTitle": "YES",
+            "insightId": "SgtxetH",
+            "insightType": "chart",
+            "displayMode": "INSIGHT",
+            "resizeImageMode": "FIT_SIZE"
+          }
+        ]
+      },
+      "showTitle": false
+    },
+    {
+      "id": "cKR4Fvr",
+      "grid": {
+        "tiles": [
+          {
+            "tileType": "INSIGHT",
+            "box": {
+              "top": 0,
+              "left": 0,
+              "width": 12,
+              "height": 2
+            },
+            "clickAction": "OPEN_INSIGHT",
+            "tileParams": {
+              "displayMode": "SIMPLE",
+              "range": "CURRENT_MONTH"
+            },
+            "autoLoad": true,
+            "showTitle": "MOUSEOVER",
+            "insightId": "3tPz0Sr",
+            "insightType": "scenario_last_runs",
+            "displayMode": "INSIGHT",
+            "resizeImageMode": "FIT_SIZE"
+          },
+          {
+            "tileType": "INSIGHT",
+            "box": {
+              "top": 2,
+              "left": 0,
+              "width": 4,
+              "height": 2
+            },
+            "clickAction": "DO_NOTHING",
+            "tileParams": {
+              "showLastRun": false
+            },
+            "autoLoad": true,
+            "showTitle": "YES",
+            "insightId": "i2o6LJ7",
+            "insightType": "scenario_run_button",
+            "displayMode": "INSIGHT",
+            "resizeImageMode": "FIT_SIZE"
+          }
+        ]
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "pradeep",
+  "listed": true,
+  "name": "Drug Classification\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 4,
+    "lastModifiedBy": {
+      "login": "manjunath"
+    },
+    "lastModifiedOn": 1666248533981
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "pradeep"
+    },
+    "lastModifiedOn": 1666067796976
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}

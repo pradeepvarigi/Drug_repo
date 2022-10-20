@@ -1,0 +1,29 @@
+{
+  "type": "scenario_run_button",
+  "params": {
+    "scenarioSmartId": "FIRST"
+  },
+  "owner": "manjunath",
+  "listed": false,
+  "name": "Run scenario First",
+  "dashboardCreationId": "JpRIHa4",
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "manjunath"
+    },
+    "lastModifiedOn": 1666248512207
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "manjunath"
+    },
+    "lastModifiedOn": 1666248512207
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}

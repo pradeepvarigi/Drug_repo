@@ -1,0 +1,81 @@
+{
+  "name": "First_API",
+  "endpoints": [
+    {
+      "modelRef": "ZSZYiZKR",
+      "useJava": true,
+      "outputExplanations": false,
+      "individualExplanationParams": {
+        "method": "ICE",
+        "nbExplanations": 3,
+        "drawInScoredSet": false,
+        "subChunkSize": 5000,
+        "shapleyBackgroundSize": 100
+      },
+      "mlFlowOutputStyle": "RAW",
+      "testQueries": [
+        {
+          "q": {
+            "features": {
+              "Age": 30,
+              "Gender": "1",
+              "BP_HIGH": 1,
+              "BP_NORMAL": 0,
+              "BP_LOW": 0,
+              "Cholesterol": "1",
+              "Sodium and potassium Level": 23.798
+            }
+          }
+        },
+        {
+          "name": "Test #1",
+          "q": {
+            "features": {
+              "Age": 28,
+              "Gender": "0",
+              "BP_HIGH": 0,
+              "BP_NORMAL": 1,
+              "BP_LOW": 0,
+              "Cholesterol": "1",
+              "Sodium and potassium Level": 23.798
+            }
+          }
+        }
+      ],
+      "enrichMapping": [],
+      "healthCheckQueries": [],
+      "returnPostEnrichData": false,
+      "auditPostEnrichData": false,
+      "id": "Endpoint_first",
+      "type": "STD_PREDICTION"
+    }
+  ],
+  "authMethod": "PUBLIC",
+  "authRealm": {
+    "queryKeys": []
+  },
+  "oauth2Config": {
+    "keysFormat": "JWKS_URI",
+    "scopeClaimFormat": "STRING",
+    "scopeClaimKey": "scope"
+  },
+  "versionTag": {
+    "versionNumber": 11,
+    "lastModifiedBy": {
+      "login": "manjunath"
+    },
+    "lastModifiedOn": 1666247952275
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "manjunath"
+    },
+    "lastModifiedOn": 1666168600984
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
